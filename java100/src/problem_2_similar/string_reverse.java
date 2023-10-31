@@ -41,5 +41,9 @@ public class string_reverse
         System.out.println(reverseBySB("Hello World "));
         System.out.println(reverseByRec("Hello World "));
 
+        String str=new String("Hello");
+
+        System.out.println(str);
+
     }
 }

@@ -21,5 +21,7 @@ public class problem_20
         System.out.println(isNumber("/"));
 
         System.out.println(("78").indexOf("8"));
+
+        System.out.println( );
     }
 }
